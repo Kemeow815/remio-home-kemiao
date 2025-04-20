@@ -1,10 +1,10 @@
 {
-  "name": "KASUIEの主页✨",
+  "name": "克喵爱吃卤面の主页✨",
   "favicon": "/favicon.ico",
-  "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "keywords": "kemiao,KeMiaoの次元,克喵的个人博客,克喵爱吃卤面,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "总有些事情高于其他！",
   "avatarConfig": {
-    "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
+    "src": "https://s2.loli.net/2025/04/18/XqnD4FQzWJcfIa5.jpg",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -13,8 +13,8 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
-    "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
+    "bg": ["https://s2.loli.net/2025/03/26/1zJfc5ysV9PSBGU.jpg"],
+    "mbg": ["https://s2.loli.net/2025/03/26/wWMgxZOuLA3YdJ7.jpg"],
     "bgStyle": "snow",
     "blur": "",
     "cardOpacity": 0.1,
@@ -44,32 +44,32 @@
     "showFrom": true,
     "style": "desc",
     "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "content": "Hello💫，这里是克喵の主页",
+    "desc": "愿你看清一切真相后，依旧热爱你的家人和朋友。"
   },
   "links": [
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "https://qm.qq.com/q/D1Aa2LD0PK",
       "icon": "qq"
     },
     {
       "title": "telegram",
       "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
+      "url": "https://t.me/KemiaoJun",
       "icon": "telegram"
     },
     {
       "title": "github",
       "color": "#000000",
-      "url": "https://github.com/kasuie",
+      "url": "https://github.com/Kemeow815",
       "icon": "github"
     },
     {
       "title": "twitter",
       "color": "#1da1f2",
-      "url": "https://twitter.com/kasuie3",
+      "url": "https://twitter.com/kemiaosw",
       "icon": "twitter"
     },
     {
@@ -81,105 +81,46 @@
     {
       "title": "steam",
       "color": "#000000",
-      "url": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
+      "url": "https://steamcommunity.com/profiles/76561199504566391/",
       "icon": "steam"
     },
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
+      "url": "https://space.bilibili.com/3546643173477234",
       "icon": "bilibili"
     }
   ],
   "sites": [
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
+      "icon": "https://s2.loli.net/2025/04/17/RpTyvlwan1WJDmt.jpg",
+      "title": "克喵の次元",
+      "url": "https://blog-v3.kemeow.top",
       "desc": "博客主页"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "Mio 导航",
-      "url": "https://nav.kasuie.cc",
-      "desc": "Mio 网站导航"
+      "icon": "https://s2.loli.net/2025/04/20/EUOcNXJusaFnhp1.jpg",
+      "title": "音乐页",
+      "url": "https://music.kemiao.online",
+      "desc": "克喵的音乐页"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
-      "url": "https://ai.kasuie.cc",
-      "desc": "ChatGPT"
+      "icon": "https://s2.loli.net/2025/04/20/YlCpwEz6dJ1ugA9.jpg",
+      "title": "克喵の网站监测",
+      "url": "https://montor.kemeow.cn",
+      "desc": "克喵的网站监测"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "KASUIEの库",
-      "url": "https://dist.kasuie.cc",
-      "desc": "网盘挂载程序"
+      "icon": "https://s2.loli.net/2025/04/20/DUvf6V1cJl8XqWi.jpg",
+      "title": "克喵の每日热榜",
+      "url": "https://dailyhot.kemeow.cn",
+      "desc": "克喵の每日热榜"
     },
     {
-      "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
-      "title": "KASUIEの图床",
+      "icon": "https://s2.loli.net/2025/04/20/1jCPNFYw9hRLJ4M.jpg",
+      "title": "克喵の影视播放器",
       "url": "https://upload.kasuie.cc",
-      "desc": "图床服务"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "监控服务",
-      "url": "https://status.kasuie.cc/status",
-      "desc": "服务程序监控"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEのDocs",
-      "url": "https://docs.kasuie.cc",
-      "desc": "文档服务"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "杂七杂八",
-      "desc": "阿巴阿巴..."
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "喜好生成表",
-      "url": "https://like.kasuie.cc",
-      "desc": "个人喜好生成表"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
+      "desc": "克喵的影视播放器"
     }
   ],
   "sitesConfig": {
@@ -229,7 +170,7 @@
         "value": 20
       },
       {
-        "title": "Three.js",
+        "title": "Hugo",
         "value": 10
       },
       {
@@ -241,19 +182,19 @@
         "value": 5
       },
       {
-        "title": "Spring Boot",
+        "title": "Astro",
         "value": 40
       },
       {
-        "title": "Linux",
+        "title": "Windows",
         "value": 60
       },
       {
-        "title": "Mysql",
+        "title": "Notion",
         "value": 55
       },
       {
-        "title": "Docker",
+        "title": "Valaxy",
         "value": 45
       }
     ],
@@ -263,10 +204,10 @@
     "column": 4
   },
   "footer": {
-    "text": "© 2020 - 2025 By KASUIE",
-    "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
-    "MPSICP": "京公网安备xxxxxxxx号",
+    "text": "© 2025 - 2025 By 克喵爱吃卤面",
+    "url": "https://blog-v3.kemeow.top",
+    "ICP": "",
+    "MPSICP": "",
     "direction": "col-reverse",
     "isExternal": true
   },
